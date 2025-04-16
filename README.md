@@ -15,12 +15,13 @@ Funcionalidades
 Tecnologias Utilizadas
 React Native (https://reactnative.dev/)
 Axios (https://axios-http.com/)
-@react-native-picker/picker (https://github.com/react-native-picker/picker)
-Instalação
 
+
+Instalação
 Instale as dependências
 npm install
 npm install axios
+
 
 Execulte 
 npm run web
