@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+Conversor de Moedas e Criptomoedas
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo em React Native para conversão de moedas tradicionais e criptomoedas em tempo real, com suporte a tema escuro e interface intuitiva.
 
-## Get started
+Funcionalidades
 
-1. Install dependencies
+- Conversão entre moedas internacionais (USD, BRL, EUR, etc.)
+- Conversão entre criptomoedas (Bitcoin, Ethereum, Litecoin, etc.)
+- Interface simples com suporte a tema escuro
+- Seleção rápida entre moeda tradicional e cripto
+- Consumo de APIs públicas:
+  - [ExchangeRate API](https://www.exchangerate-api.com/)
+  - [CoinGecko API](https://www.coingecko.com/)
 
-   ```bash
-   npm install
-   ```
+Tecnologias Utilizadas
+React Native (https://reactnative.dev/)
+Axios (https://axios-http.com/)
+@react-native-picker/picker (https://github.com/react-native-picker/picker)
+Instalação
 
-2. Start the app
+Instale as dependências
+npm install
+npm install axios
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Execulte 
+npm run web
