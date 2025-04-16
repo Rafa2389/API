@@ -27,4 +27,4 @@ O react-native-picker-select é um pacote da comunidade que pode ser usado para 
 
 
 Execulte 
-- npm run web ou npm start web
+- npm run web ou npm start opção web
