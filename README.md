@@ -13,15 +13,15 @@ Funcionalidades
   - [CoinGecko API](https://www.coingecko.com/)
 
 Tecnologias Utilizadas
-React Native (https://reactnative.dev/)
-Axios (https://axios-http.com/)
+- React Native (https://reactnative.dev/)
+- Axios (https://axios-http.com/)
 
 
 Instalação
 Instale as dependências
-npm install
-npm install axios
+- npm install
+- npm install axios
 
 
 Execulte 
-npm run web
+- npm run web ou npm start web
